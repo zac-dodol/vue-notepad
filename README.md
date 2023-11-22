@@ -1,7 +1,24 @@
-# vue-study is a vue 3.0 project.
+# vue-notepad
 
--main project is the vue notepad application
--other pages are for intergrating and knowledge enhancement on what can be done with vue
+## Project setup
+```
+npm install
+```
 
-navigate to folder
--> npm run serve
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
